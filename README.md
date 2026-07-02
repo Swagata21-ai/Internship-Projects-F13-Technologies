@@ -5,7 +5,7 @@
 ## 🧑‍💻 My Contributions
 
 ### 📌 Project 1: Serverless Payroll Processing & Payslip Delivery Engine
-**Role:** Team 1 – Data Layer & Storage
+**Role:** Data Layer & Storage
 
 Designed and implemented the data storage backbone of the payroll engine.
 
@@ -18,7 +18,7 @@ Designed and implemented the data storage backbone of the payroll engine.
 ---
 
 ### 📌 Project 2: Serverless Attendance System with Face Recognition
-**Role:** Team 2 – Backend Processing
+**Role:** Backend Processing
 
 Built the real-time backend workflow powering attendance tracking.
 
@@ -32,7 +32,7 @@ Built the real-time backend workflow powering attendance tracking.
 ---
 
 ### 📌 Project 3: Employee Document Vault with Role-Based Access Control
-**Role:** Team 1 – Security & Access
+**Role:** Security & Access
 
 Implemented the authentication and authorization layer for secure document management.
 
