@@ -1,6 +1,6 @@
 ### Internship Projects – F13 Technologies
 
-**Serverless Payroll, Attendance, and Document Vault | Team 1: Data Layer & Security | Team 2: Backend Processing**
+**F13 Technologies Internship Projects – Serverless Payroll, Attendance, and Document Vault | Roles: Data Layer, Backend, Security & Access**
 
 ## 🧑‍💻 My Contributions
 
@@ -45,7 +45,6 @@ Implemented the authentication and authorization layer for secure document manag
 
 ---
 ## 🚀 Portfolio Impact
-
 Across all three projects, I contributed to building scalable, secure, and serverless cloud applications by focusing on:
 
 - ✅ Reliable and scalable data architecture for Payroll.
