@@ -53,4 +53,4 @@ Across all three projects, I contributed to building scalable, secure, and serve
 - ✅ Event-driven serverless architectures using AWS services.
 - ✅ Cloud security best practices with IAM, Cognito, JWT, and API Gateway.
 
-**Core AWS Services:** •AWS Lambda •Amazon DynamoDB •Amazon S3 •Amazon Cognito •Amazon API Gateway •Amazon Rekognition •Amazon SES • IAM
+**Core AWS Services:** •AWS Lambda  •Amazon DynamoDB  •Amazon S3  •Amazon Cognito  •Amazon API Gateway  •Amazon Rekognition  •Amazon SES  •IAM
