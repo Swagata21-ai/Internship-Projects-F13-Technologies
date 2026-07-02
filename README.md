@@ -1,9 +1,9 @@
 # Internship Projects F13 Technologies
-F13 Technologies Internship Projects – Serverless Payroll, Attendance, and Document Vault | Roles: Team 1 Data Layer, Team 2 Backend, Team 1 Security & Access
+**F13 Technologies Internship Projects – Serverless Payroll, Attendance, and Document Vault | Roles: Team 1 Data Layer, Team 2 Backend, Team 1 Security & Access**
 
 🧑‍💻 My Contributions – Internship Projects (F13 Technologies)
-📌 Project 1: Serverless Payroll Processing & Payslip Delivery Engine
-Team 1 Role – Data Layer & Storage  
+**📌 Project 1: Serverless Payroll Processing & Payslip Delivery Engine**
+**Team 1 Role – Data Layer & Storage**
 I designed and implemented the data storage backbone of the payroll engine.
 
 DynamoDB Schema for employee payroll records.
@@ -16,8 +16,8 @@ Auditability & Compliance by ensuring immutable payroll records.
 
 Integration with Lambda workflows and SES email delivery.
 
-📌 Project 2: Serverless Attendance System with Face Recognition
-Team 2 Role – Backend Processing  
+**📌 Project 2: Serverless Attendance System with Face Recognition**
+**Team 2 Role – Backend Processing**  
 I built the real‑time backend workflow that powers attendance tracking.
 
 Lambda Function URL for secure image uploads.
@@ -32,8 +32,9 @@ Event‑Driven Architecture linking S3 events to Lambda triggers.
 
 Validation Rules rejecting low‑quality or multiple‑face images.
 
-📌 Project 3: Employee Document Vault with Role‑Based Access
-Team 1 Role – Security & Access  
+**📌 Project 3: Employee Document Vault with Role‑Based Access**
+**Team 1 Role – Security & Access** 
+
 I implemented the authentication and authorization layer for secure document management.
 
 AWS Cognito setup with User Pools & Groups.
@@ -48,7 +49,7 @@ Authorization Logic for Employees, Managers, and HR_Admin.
 
 API Gateway endpoints secured with Cognito Authorizer.
 
-🚀 Portfolio Impact
+**🚀 Portfolio Impact**
 Across all three projects, I contributed to critical backend and security layers:
 
 Data reliability in Payroll.
