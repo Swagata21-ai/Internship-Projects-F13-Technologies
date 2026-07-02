@@ -1,59 +1,57 @@
-## Internship Projects F13 Technologies
-**F13 Technologies Internship Projects – Serverless Payroll, Attendance, and Document Vault | Roles: Team 1 Data Layer, Team 2 Backend, Team 1 Security & Access**
+### Internship Projects – F13 Technologies
 
-🧑‍💻 My Contributions – Internship Projects (F13 Technologies)
-**📌 Project 1: Serverless Payroll Processing & Payslip Delivery Engine**
-**Team 1 Role – Data Layer & Storage**
-I designed and implemented the data storage backbone of the payroll engine.
+**Serverless Payroll, Attendance, and Document Vault | Team 1: Data Layer & Security | Team 2: Backend Processing**
 
-DynamoDB Schema for employee payroll records.
+## 🧑‍💻 My Contributions
 
-Amazon S3 Strategy for secure payslip PDF storage.
+### 📌 Project 1: Serverless Payroll Processing & Payslip Delivery Engine
+**Role:** Team 1 – Data Layer & Storage
 
-Idempotency Tokens to prevent duplicate salary calculations.
+Designed and implemented the data storage backbone of the payroll engine.
 
-Auditability & Compliance by ensuring immutable payroll records.
+- Designed a DynamoDB schema for employee payroll records.
+- Architected an Amazon S3 storage strategy for secure payslip PDF storage.
+- Implemented idempotency tokens to prevent duplicate salary calculations.
+- Ensured auditability and compliance through immutable payroll records.
+- Integrated the data layer with AWS Lambda workflows and Amazon SES for automated payslip delivery.
 
-Integration with Lambda workflows and SES email delivery.
+---
 
-**📌 Project 2: Serverless Attendance System with Face Recognition**
-**Team 2 Role – Backend Processing**  
-I built the real‑time backend workflow that powers attendance tracking.
+### 📌 Project 2: Serverless Attendance System with Face Recognition
+**Role:** Team 2 – Backend Processing
 
-Lambda Function URL for secure image uploads.
+Built the real-time backend workflow powering attendance tracking.
 
-Amazon Rekognition integration with ≥ 90 % similarity threshold.
+- Developed Lambda Function URLs for secure image uploads.
+- Integrated Amazon Rekognition with a ≥90% similarity threshold for face verification.
+- Implemented attendance processing logic for clock-in and clock-out events.
+- Designed DynamoDB tables for employees, attendance records, and recognition results.
+- Built an event-driven architecture linking Amazon S3 events with AWS Lambda triggers.
+- Added validation rules to reject low-quality or multiple-face images.
 
-Attendance Processor to apply clock‑in/clock‑out logic.
+---
 
-DynamoDB Tables for employees, attendance records, and recognition results.
+### 📌 Project 3: Employee Document Vault with Role-Based Access Control
+**Role:** Team 1 – Security & Access
 
-Event‑Driven Architecture linking S3 events to Lambda triggers.
+Implemented the authentication and authorization layer for secure document management.
 
-Validation Rules rejecting low‑quality or multiple‑face images.
+- Configured Amazon Cognito User Pools and User Groups.
+- Designed IAM roles following the principle of least privilege.
+- Created the `manager_mapping` DynamoDB table to enforce Role-Based Access Control (RBAC).
+- Integrated JWT validation with Amazon API Gateway and AWS Lambda.
+- Implemented authorization logic for Employees, Managers, and HR_Admin users.
+- Secured API Gateway endpoints using Amazon Cognito Authorizers.
 
-**📌 Project 3: Employee Document Vault with Role‑Based Access**
-**Team 1 Role – Security & Access** 
+---
+## 🚀 Portfolio Impact
 
-I implemented the authentication and authorization layer for secure document management.
+Across all three projects, I contributed to building scalable, secure, and serverless cloud applications by focusing on:
 
-AWS Cognito setup with User Pools & Groups.
+- ✅ Reliable and scalable data architecture for Payroll.
+- ✅ Real-time backend processing for Attendance.
+- ✅ Secure authentication and Role-Based Access Control (RBAC) for the Document Vault.
+- ✅ Event-driven serverless architectures using AWS services.
+- ✅ Cloud security best practices with IAM, Cognito, JWT, and API Gateway.
 
-IAM Roles designed for least‑privilege access.
-
-manager_mapping Table to enforce RBAC between managers and employees.
-
-JWT Validation integrated with API Gateway & Lambda.
-
-Authorization Logic for Employees, Managers, and HR_Admin.
-
-API Gateway endpoints secured with Cognito Authorizer.
-
-**🚀 Portfolio Impact**
-Across all three projects, I contributed to critical backend and security layers:
-
-Data reliability in Payroll.
-
-Real‑time recognition in Attendance.
-
-Secure access control in Document Vault.
+**Core AWS Services:** AWS Lambda • Amazon DynamoDB • Amazon S3 • Amazon Cognito • Amazon API Gateway • Amazon Rekognition • Amazon SES • IAM
