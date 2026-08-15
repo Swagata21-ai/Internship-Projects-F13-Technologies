@@ -46,13 +46,29 @@ Implemented the authentication and authorization layer for secure document manag
 - Secured API Gateway endpoints using Amazon Cognito Authorizers.
 
 ---
+
+### 📌 Project 4: Production Hardening, Observability & Cost Optimisation Sprint
+**Role:** Security Hardening Audit
+Conducted a security-focused audit of the cloud environment to identify configuration weaknesses and improve the overall security posture.
+
+- Reviewed AWS resource configurations against security best practices and least-privilege principles.
+- Audited IAM users, roles, and policies to identify excessive or unnecessary permissions.
+- Reviewed S3 bucket configurations for secure access controls and prevention of unintended public exposure.
+- Assessed API endpoints and authentication/authorization configurations for potential security gaps.
+- Reviewed CloudWatch and CloudTrail configurations to verify monitoring, logging, and auditability.
+- Identified security misconfigurations and documented recommended remediation actions.
+- Contributed to production hardening by recommending secure configuration changes and preventive controls.
+- Evaluated security risks alongside operational and cost considerations to support a more resilient cloud environment.
+
+  ---
 ## 🚀 Portfolio Impact
-Across all three projects, I contributed to building scalable, secure, and serverless cloud applications by focusing on:
+Across all four projects, I contributed to building and strengthening scalable, secure, and production-oriented serverless cloud applications by focusing on:
 
-- ✅ Reliable and scalable data architecture for Payroll.
-- ✅ Real-time backend processing for Attendance.
-- ✅ Secure authentication and Role-Based Access Control (RBAC) for the Document Vault.
-- ✅ Event-driven serverless architectures using AWS services.
-- ✅ Cloud security best practices with IAM, Cognito, JWT, and API Gateway.
+✅ Reliable and scalable data architecture for Payroll.
+✅ Real-time backend processing for Attendance.
+✅ Secure authentication and Role-Based Access Control (RBAC) for the Document Vault.
+✅ Security hardening and cloud configuration auditing for production environments.
+✅ Event-driven serverless architectures using AWS services.
+✅ Cloud security best practices involving IAM, Cognito, JWT, API Gateway, logging, and monitoring.
 
-**Core AWS Services:** •AWS Lambda  •Amazon DynamoDB  •Amazon S3  •Amazon Cognito  •Amazon API Gateway  •Amazon Rekognition  •Amazon SES  •IAM
+**Core AWS Services:** • AWS Lambda • Amazon DynamoDB • Amazon S3 • Amazon Cognito • Amazon API Gateway • Amazon Rekognition • Amazon SES • IAM • Amazon CloudWatch • AWS CloudTrail
