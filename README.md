@@ -65,10 +65,15 @@ Conducted a security-focused audit of the cloud environment to identify configur
 Across all four projects, I contributed to building and strengthening scalable, secure, and production-oriented serverless cloud applications by focusing on:
 
 ✅ Reliable and scalable data architecture for Payroll.
+
 ✅ Real-time backend processing for Attendance.
+
 ✅ Secure authentication and Role-Based Access Control (RBAC) for the Document Vault.
+
 ✅ Security hardening and cloud configuration auditing for production environments.
+
 ✅ Event-driven serverless architectures using AWS services.
+
 ✅ Cloud security best practices involving IAM, Cognito, JWT, API Gateway, logging, and monitoring.
 
 **Core AWS Services:** • AWS Lambda • Amazon DynamoDB • Amazon S3 • Amazon Cognito • Amazon API Gateway • Amazon Rekognition • Amazon SES • IAM • Amazon CloudWatch • AWS CloudTrail
